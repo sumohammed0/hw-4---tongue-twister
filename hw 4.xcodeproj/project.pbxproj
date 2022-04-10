@@ -25,6 +25,8 @@
 /* Begin PBXFileReference section */
 		07A6EABB27EFAEAB00388BB7 /* hw 4 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "hw 4"; sourceTree = BUILT_PRODUCTS_DIR; };
 		07A6EABE27EFAEAB00388BB7 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		07A6EAC527EFB2CF00388BB7 /* Tongue-Twisters.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Tongue-Twisters.txt"; sourceTree = "<group>"; };
+		07A6EAC627EFB32000388BB7 /* LeetChars-Small.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "LeetChars-Small.txt"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,8 @@
 			isa = PBXGroup;
 			children = (
 				07A6EABE27EFAEAB00388BB7 /* main.cpp */,
+				07A6EAC527EFB2CF00388BB7 /* Tongue-Twisters.txt */,
+				07A6EAC627EFB32000388BB7 /* LeetChars-Small.txt */,
 			);
 			path = "hw 4";
 			sourceTree = "<group>";
